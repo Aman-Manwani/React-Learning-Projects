@@ -1,0 +1,23 @@
+.main_div{
+    display: flex;
+}
+
+.left_div{
+    width: 55%;
+}
+
+.about_heading{
+    font-size: 5.5rem;
+    margin-top: 150px;
+    margin-left: 40px;
+}
+
+ul li{
+    padding: 5px;
+    margin: 0px 90px;
+    font-weight: 700;
+}
+
+.about_img{
+    opacity: 1;
+}
